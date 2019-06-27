@@ -62,10 +62,10 @@ public class GenerateTestUserSig {
      * public_key 两个文件，其中 private_key 就是我们需要的私钥文件。
      */
     private static final String PRIVATEKEY = "-----BEGIN PRIVATE KEY-----\n" +
-        "MIGHAgEAMBM  “无效”的私钥样例，仅仅代码编写参考   GBB6RtS7EMWX\n" +
-        "nnXrYKui2gM  “无效”的私钥样例，仅仅代码编写参考   IlzTwqs0DD03\n" +
-        "ELuZK8EIQWA  “无效”的私钥样例，仅仅代码编写参考   pBKP\n" +
-        "-----END PRIVATE KEY-----\n";
+            "MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgmbqpR2Nuii5V5GwU\n" +
+            "3ghyZOn5Imp79PKPyrrsQJ3DdLehRANCAARP8BYxioT00Nn+IAXPGuYQAKeoahvL\n" +
+            "OuBjwdQ88pjj33kKrcJB2MfvX7DP873ma7ctO0xxytvoeyGvr/H99fs/\n" +
+            "-----END PRIVATE KEY-----\n";
 
 
     /**
